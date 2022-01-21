@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ULVXwDavoTo1yfj/ir/GahOj3jscS0HbV6wvvOtVzXtl0Mtsw3P/jFRYc7Iv77Y5wO6/caNbndKsvLALuMoEXw==",
+  "success": true,
+  "projectFilePath": "D:\\NashTech_Projects\\ASP.NET_Core\\ASP.NET_Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BK\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
